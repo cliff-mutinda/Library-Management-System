@@ -1,6 +1,6 @@
 # 📚 C++ Library Management System
 
-A simple **console-based Library Management System** developed in **C++** for the university unit **Programming and Problem Solving**. The system demonstrates fundamental programming and **Object-Oriented Programming (OOP)** concepts by simulating a basic library environment where books and students can be managed and borrowing transactions recorded.
+A simple **console-based Library Management System** developed in **C++** for the university unit **Programming and Problem Solving(CSC 121)**. The system demonstrates fundamental programming and **Object-Oriented Programming (OOP)** concepts by simulating a basic library environment where books and students can be managed and borrowing transactions recorded.
 
 The program allows users to add books, register students, search records, and borrow books through a menu-driven interface. Basic data persistence is implemented using file handling to store records.
 
